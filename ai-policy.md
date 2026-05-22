@@ -2,7 +2,7 @@
 
 If you've looked around our repos, you may have noticed we do not include files to make agentic AI development easier (e.g., AGENTS.md, DESIGN.md), why is this?
 
-We prioritize being able to learn from the projects that are being worked on. The greatest benefit of working on open source projects at ACM @ CSUF is that you get to work with other experienced peers, particularly the board members. When introducing better agentic flow to our projects, contributors will be a lot more likely to miss the opportunity to talk to more experienced members, study the codebase, and write code themselves. All which are extremely valuable to learn and become a better programmer.
+We prioritize being able to learn from the projects that are being worked on. The greatest benefit of working on open source projects at acm@CSUF is that you get to work with other experienced peers, particularly the board members. When introducing better agentic flow to our projects, contributors will be a lot more likely to miss the opportunity to talk to more experienced members, study the codebase, and write code themselves. All which are extremely valuable to learn and become a better programmer.
 
 ---
 
