@@ -26,8 +26,8 @@ programming language.
 
 The API group does not own:
 
-- Frontend applications and user interfaces.
+- Frontend applications and user interfaces. (Such as **[acmcsuf.com](https://github.com/acmcsufoss/acmcsuf.com)**)
 - Standalone Discord bots or automation that do not require a backend service.
-- General-purpose infrastructure unrelated to an API group's project.
+- General-purpose infrastructure unrelated to an API group's project. (Like **[acm-server](https://github.com/acmcsufoss/acm-server)**)
 - Projects whose primary purpose is unrelated to ACM CSUF's open source
   ecosystem.
