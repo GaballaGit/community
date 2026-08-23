@@ -8,6 +8,10 @@ For what it covers see the [scope](scope.md)
 
 API meetings will be held in the acmcsuf discord at: TBD
 
+- Meeting notes are typically posted in the discord
+  **[Project Threads Channel](https://discord.com/channels/710225099923521558/1143379119564923000)**
+  - **[2026 api.acmcsufoss.com notes](/api-acmcsuf/api.acmcsuf.com-meetings-notes26.md)**
+
 ## Group Leadership
 
 In a semester there are two project leads for an acmcsufoss project.
